@@ -1,0 +1,11 @@
+{
+    "targetType": "executable",
+    "name": "dgame",
+    "mainSourceFile": "dgame.d",
+    "sourcePath" : ".",
+    "importPaths" : ["."],
+    "dependencies":
+    {
+        "gfm:sdl2" : "*"
+    }
+}

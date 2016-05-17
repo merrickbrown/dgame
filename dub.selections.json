@@ -1,0 +1,9 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"logger": "0.3.3",
+		"derelict-util": "1.9.1",
+		"gfm": "2.0.14",
+		"derelict-sdl2": "1.9.2"
+	}
+}

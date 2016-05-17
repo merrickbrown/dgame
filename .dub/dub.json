@@ -1,0 +1,11 @@
+{
+	"dub": {
+		"cachedUpgrades": {
+			"logger": "0.3.3",
+			"derelict-util": "1.9.1",
+			"gfm": "2.0.14+commit.2.gffea6c7",
+			"derelict-sdl2": "1.9.2"
+		},
+		"lastUpgrade": "2015-04-02T14:40:32.7842715"
+	}
+}
